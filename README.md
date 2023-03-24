@@ -1,4 +1,4 @@
-# joel-test
+# Joel-test
 The 2021 Guide to The Joel Test for Programming
 Written by Swetha Amaresan
 
